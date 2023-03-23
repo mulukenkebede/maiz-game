@@ -1,6 +1,7 @@
 # maiz-game
-portfolio project
-Background Context
+## portfolio project
+## Background Context
+
 The goal of this project is to create a game in 3D using raycasting !
 
 You don’t have to do the tasks in order, except for the first one (obviously), or if a task depends on a previous one
@@ -9,9 +10,7 @@ You have a link to a very good and very long tutorial about raycasting in the Ti
 
 Please have a lot of fun doing this project !
 
-
-
-Requirements
+## Requirements
 General
  - All your files will be compiled on Ubuntu 14.04 LTS, using gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
  - We will use the gcc flags -Wall -Werror -Wextra and -pedantic
